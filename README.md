@@ -20,6 +20,7 @@ rpmgpgkey { 'RPM-GPG-KEY-CentOS-7':
   ensure => 'present',
   url    => 'http://www.mirrorservice.org/sites/mirror.centos.org/RPM-GPG-KEY-CentOS-7',
 }
+```
 
 ## Limitations
 
