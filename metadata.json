@@ -1,0 +1,14 @@
+{
+  "name": "jgazeley/rpmgpgkey",
+  "version": "0.1.0",
+  "author": "jgazeley",
+  "summary": "Install an RPM-GPG-key from a URL",
+  "license": "Apache-2.0",
+  "source": "https://github.com/uobnetops/puppet-rpmgpgkey",
+  "project_page": "https://github.com/uobnetops/puppet-rpmgpgkey",
+  "issues_url": "https://github.com/uobnetops/puppet-rpmgpgkey/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
